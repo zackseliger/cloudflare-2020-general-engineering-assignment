@@ -1,0 +1,21 @@
+{
+  "name": "cloudflare-2020-general-engineering-assignment",
+  "version": "1.0.0",
+  "description": "## What is it?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zackseliger/cloudflare-2020-general-engineering-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zackseliger/cloudflare-2020-general-engineering-assignment/issues"
+  },
+  "homepage": "https://github.com/zackseliger/cloudflare-2020-general-engineering-assignment#readme",
+  "dependencies": {
+  }
+}
